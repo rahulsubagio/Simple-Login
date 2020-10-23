@@ -4,7 +4,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>IoT</title>
+	<title>Internet of Things</title>
+	<link rel="icon" href="<?= base_url('assets/gambar/logo.png') ?>">
 
 	<!-- Bootstrap core CSS -->
 	<link href="<?= base_url('./assets/css/bootstrap.min.css') ?>" rel="stylesheet">

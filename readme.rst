@@ -74,3 +74,10 @@ Already account
 
 - email : test@gmail.com
 - pass  : test
+
+***************
+Documentation
+***************
+
+.. image:: documentation/page1.png
+   :width: 600

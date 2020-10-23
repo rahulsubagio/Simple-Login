@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+Simple Login using CodeIgniter 3
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people

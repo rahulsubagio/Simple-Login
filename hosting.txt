@@ -1,0 +1,8 @@
+link : https://iot-rahulsubagio.000webhostapp.com/
+project name : iot-rahulsubagio
+password : CuSLMtl!R5^!MmHTSm8B
+
+database
+name : id15217012_iot
+user : id15217012_root 
+pass : 6GOrqj+W\GL67Vuz

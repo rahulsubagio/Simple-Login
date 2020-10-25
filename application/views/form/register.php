@@ -21,7 +21,7 @@
     </div>
     <hr>
     <button class="btn btn-lg btn-primary btn-block" type="submit">Register</button>
-    <p class="mt-5 mb-3 text-muted">KopiPaste &copy; 2020</p>
+    <p class="mt-5 mb-3 text-muted">KopiKanan &copy; 2020</p>
   </form>
 </body>
 

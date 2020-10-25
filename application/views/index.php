@@ -47,13 +47,13 @@
 			<h1 class="cover-heading">Internet of Things</h1>
 			<p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
 			<p class="lead">
-				<a href="<?= base_url('auth/login') ?>" class="btn btn-lg btn-info">Learn more</a>
+				<a href="<?= base_url('auth/login') ?>" class="btn btn-lg btn-info">Get Started</a>
 			</p>
 		</main>
 
 		<footer class="mastfoot mt-auto">
 			<div class="inner">
-				<p>KopiPaste &copy; 2020</p>
+				<p>KopiKanan &copy; 2020</p>
 			</div>
 		</footer>
 	</div>

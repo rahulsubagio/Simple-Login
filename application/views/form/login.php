@@ -20,7 +20,7 @@
     <hr>
     <button class="btn btn-lg btn-primary btn-block" type="submit">Login</button>
     <a class="btn btn-lg btn-danger btn-block" type="button" href="<?= base_url('auth') ?>">Home</a>
-    <p class="mt-5 mb-3 text-muted">KopiPaste &copy; 2020</p>
+    <p class="mt-5 mb-3 text-muted">KopiKanan &copy; 2020</p>
   </form>
 </body>
 
